@@ -2,7 +2,7 @@
 
 #### Here is Live Demo Example:
 
-[Movies](https://movies-eight-tawny.vercel.app/)
+[Movies](https://movies-ten-rust.vercel.app/)
 
 This project is built in React, Redux, JavaScript, and CSS.
 
