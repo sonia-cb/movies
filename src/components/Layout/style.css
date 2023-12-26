@@ -1,0 +1,19 @@
+.pageBG {
+    background-color: #093545;
+    height: 100vh;
+    width: 100vw;
+    background-repeat: repeat-y;
+}
+.footer-image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+}
+.footer-image img {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: auto; 
+}

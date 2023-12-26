@@ -1,0 +1,11 @@
+.button-label {
+    background-color: #2BD17E;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 54px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 700;
+}

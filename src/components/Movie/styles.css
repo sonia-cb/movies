@@ -1,0 +1,37 @@
+.movie-card{
+    height: 504px;
+    width:282px;
+    padding:8px, 8px, 8px, 8px;
+    border-radius:12px;
+    background-color:#092C39;
+    flex-direction: column;
+}
+.movie-img{
+    height: 400px;
+    width: 100%;
+    border-radius: 12px;
+    background-color: #092C39;
+    padding-top: 8px;
+}
+
+.movie-title{
+    font-family: 'Montserrat';
+    font-weight: 500;  
+    font-size: 20px;
+    line-height: 32px; 
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    color: #fff;
+}
+
+.movie-subtitle {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    color: #fff;
+}

@@ -1,0 +1,14 @@
+.wrapper{
+    display: grid;
+    width: 80%;
+    height: 100%;
+    /* Adjust the max-width as needed */
+    margin: 0 auto;
+    /* Center the container horizontally */
+    padding: 20px;
+    /* Add padding as needed */
+    box-sizing: border-box;
+    /* Include padding and border in the total width */
+    /* Add additional styles based on your design requirements */
+}
+

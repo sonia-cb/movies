@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App-PrimaryBTN{
+  background-color: #2BD17E;
+}
+
+.App-Error{
+  color: #EB5757;
+}
+.App-BgColor{
+  background-color: #093545;
+}
+.App-InputBG{
+  background-color: #224957;
+}
+.App-CardBG{
+  background-color: #092C39;
+}
+.App-fontFamily{
+  font-family: 'Montserrat'
 }
