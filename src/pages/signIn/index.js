@@ -1,12 +1,11 @@
 import './styles.css';
 import CommonLayout from '../../components/Layout/layout';
-import CenteredContainer from '../../components/Container';
 import SignInForm from '../../components/Forms/SignInForm';
-
+import './styles.css';
 const SignIn=(props)=> {
     return (
         <CommonLayout>
-            <div style={{ display: 'flex',justifyContent: 'center', alignItems: 'center', height:'100vh' }}>
+            <div className='centerd-div' >
                 <SignInForm {...props} />
             </div>
         </CommonLayout>
